@@ -1,0 +1,35 @@
+commit b7629234413d0d1f9a289f372ba2c4bf147bc00c
+Author: bamorales <38429635+bamorales@users.noreply.github.com>
+Date:   Mon Apr 16 15:39:06 2018 -0400
+
+    partner name
+    
+    brandonnnn woop woop
+
+commit b648b9ce5bd4e81df33acaa9fb8f14e29dee73f5
+Author: Victoria Lai <victoria_lai@my.uri.edu>
+Date:   Mon Apr 16 15:36:20 2018 -0400
+
+    error
+    
+    fixed a line error
+
+commit 0bd400c10849c95bfdefda1f58a35ca4b4b55742
+Author: Victoria Lai <victoria_lai@my.uri.edu>
+Date:   Mon Apr 16 15:33:32 2018 -0400
+
+    main.cpp
+    
+    created a new hello.cpp
+
+commit 79c3998cc2ccd1cdfa63efc8d5caef41a45be3d0
+Author: Victoria Lai <victoria_lai@my.uri.edu>
+Date:   Mon Apr 16 15:30:10 2018 -0400
+
+    added about
+
+commit 644e0c29d33a191fc9e9d6985fc5fc65c65adf0b
+Author: Victoria Lai <victoria_lai@my.uri.edu>
+Date:   Mon Apr 16 15:19:19 2018 -0400
+
+    Initial commit
